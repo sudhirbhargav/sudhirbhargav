@@ -31,6 +31,14 @@
 
 <br>
 
+- React js
+- JavaScipt
+- Web Development
+- Data structure and Algorithm
+- Deep learning
+- Natural language processing
+- App Development
+
 <!-- <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
