@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view](https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view)
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sudhirbhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhirbhargav" height="30" width="40" /></a>
