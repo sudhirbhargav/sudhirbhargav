@@ -8,7 +8,7 @@
 - 📫 How to reach me **Sudhirbhargav100@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view](https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view)
-<br>
+
 - React js
 - JavaScipt
 - Web Development
@@ -16,7 +16,7 @@
 - Deep learning
 - Natural language processing
 - App Development
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
