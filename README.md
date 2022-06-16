@@ -8,11 +8,21 @@
 - 📫 How to reach me **Sudhirbhargav100@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view](https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view)
-
+<br>
+- React js
+- JavaScipt
+- Web Development
+- Data structure and Algorithm
+- Deep learning
+- Natural language processing
+- App Development
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudhirbhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhirbhargav" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sudhir-bhargav/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a> 
 <a href="https://instagram.com/bhargavsudhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhargavsudhir" height="30" width="40" /></a>
 </p>
 
