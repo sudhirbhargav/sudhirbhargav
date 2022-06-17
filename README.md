@@ -5,11 +5,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://sudhir-dev.netlify.app/](https://sudhir-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sudhir-dev.netlify.app/)
 
 - 📫 How to reach me **Sudhirbhargav100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view](https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11tiSUyf9F2sm4g7Cd6DHNu1QFQwDFrnJ/view)
 
 - React js
 - JavaScipt
