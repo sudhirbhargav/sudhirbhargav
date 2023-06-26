@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Sudhirbhargav100@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1vNnmLvGWkBY7jpux62CpE96VsVQzox4Y)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/drive/u/0/folders/1vNnmLvGWkBY7jpux62CpE96VsVQzox4Y](https://drive.google.com/file/d/1xx-uVKbdsn3TiEKvffYgfXit3U4CVAd1/view?usp=drive_link))
 
 - React js
 - JavaScipt
