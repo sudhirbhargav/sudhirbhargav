@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Sudhirbhargav100@gmail.com**
 
-- 📄 Know about my experiences [Resume]([Resume Sudhir.docx (1).pdf](https://github.com/sudhirbhargav/sudhirbhargav/files/11864316/Resume.Sudhir.docx.1.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/sudhirbhargav/sudhirbhargav/files/11864316/Resume.Sudhir.docx.1.pdf)
 )
 
 - React js
