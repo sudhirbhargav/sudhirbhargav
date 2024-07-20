@@ -14,7 +14,6 @@
 - Web Development
 - Data structure and Algorithm
 - Deep learning
-- Natural language processing
 
 
 <h3 align="left">Connect with me:</h3>
