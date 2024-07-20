@@ -3,7 +3,7 @@
 <br>
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently Full Stack Developer
 
 - 📫 How to reach me **Sudhirbhargav100@gmail.com**
 
