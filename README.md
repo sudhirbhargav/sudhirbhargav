@@ -11,6 +11,8 @@
 
 - React js
 - JavaScipt
+- Node js
+- MongoDb
 - Web Development
 - Data structure and Algorithm
 - Deep learning
