@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Sudhirbhargav100@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xx-uVKbdsn3TiEKvffYgfXit3U4CVAd1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12uUdR7Xf_b8J4ppMiW9iddgPrYk7x6HZ/view?usp=drive_link)
 
 - React js
 - JavaScipt
